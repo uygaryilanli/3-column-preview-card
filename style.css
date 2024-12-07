@@ -81,6 +81,7 @@ p {
 
 .one:hover {
     border-style: solid;
+    padding: 13px;
     border-color: hsl(0, 0%, 95%);
     color: hsl(0, 0%, 95%);
     background-color: hsl(31, 77%, 52%);
@@ -92,6 +93,7 @@ p {
 
 .two:hover {
     border-style: solid;
+    padding: 13px;
     border-color: hsl(0, 0%, 95%);
     color: hsl(0, 0%, 95%);
     background-color: hsl(184, 100%, 22%);
@@ -103,6 +105,7 @@ p {
 
 .three:hover {
     border-style: solid;
+    padding: 13px;
     border-color: hsl(0, 0%, 95%);
     color: hsl(0, 0%, 95%);
     background-color: hsl(179, 100%, 13%);
